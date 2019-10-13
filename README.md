@@ -1,2 +1,2 @@
 # nba_poisson
-Learning about the poisson distribution + its fit for modeling NBA statistics
+Exploratory analysis determining usability of Poisson distribution for projecting NBA statistics. Full write-up in notebook.
